@@ -3,3 +3,10 @@ feat: create SQL database schema for card system
 feat: implement Cardholder Name generation
 feat: add support for Indonesia region
 feat: add support for United States region
+
+
+feat: add support for India region
+feat: add support for Japan region
+feat: add support for China region
+feat: add support for South Korea region
+feat: implement card management dashboard
