@@ -1,5 +1,6 @@
-feat: add support for India region
-feat: add support for Japan region
-feat: add support for China region
-feat: add support for South Korea region
-feat: implement card management dashboard
+feat: create secure card creation service
+feat: implement encrypted card storage
+feat: add card activation workflow
+feat: implement card suspension feature
+feat: add card expiration management
+feat: implement CVV generation module
