@@ -1,0 +1,6 @@
+fix: resolve failed to fetch regions error
+fix: correct SQL Server IP configuration
+fix: enable public network access for SQL Server
+fix: improve database connection stability
+fix: update environment variables for SQL connection
+fix: handle region fetch
