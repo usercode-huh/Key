@@ -1,0 +1,5 @@
+feat: initialize Arxen Virtual Credit Card backend
+feat: create SQL database schema for card system
+feat: implement Cardholder Name generation
+feat: add support for Indonesia region
+feat: add support for United States region
