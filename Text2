@@ -1,5 +1,5 @@
-feat: initialize Arxen Virtual Card platform
-feat: create SQL database schema
-feat: implement Cardholder Name module
-feat: add Indonesia region support
-feat: add United States region support
+real Initial VCC project structure
+real Add Visa virtual card generator
+real Implement cardholder name generator
+real Add country and region selector
+real Support Indonesia card profiles
