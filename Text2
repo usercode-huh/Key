@@ -1,5 +1,5 @@
-fix(storage): prevent duplicate uploads
-fix(face): handle low-light selfies
-perf(api): improve response times
-refactor(db): normalize verification tables
-feat(config): environment configuration
+feat(webhook): verification callbacks
+feat(metrics): monitoring integration
+feat(kyc): support retry workflow
+docs(security): data protection guidelines
+test(ocr): improve OCR regression tests
