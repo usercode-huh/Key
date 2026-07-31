@@ -1,5 +1,5 @@
-security: rotate encryption keys
-security: enforce TLS communication
-security: add rate limiting
-security: improve access control
-feat(ocr): detect blurry KTP images
+feat(face): add selfie quality checks
+feat(api): return detailed verification status
+feat(log): add structured logging
+feat(admin): verification analytics
+feat(export): export verification reports
