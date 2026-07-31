@@ -1,5 +1,5 @@
-feat(api): implement verification status API
-feat(admin): review KYC dashboard
-feat(report): verification history
-feat(cache): optimize verification cache
-feat(db): create KYC database schema
+feat(queue): async verification processing
+feat(notification): verification result alerts
+fix(face): improve recognition stability
+fix(ocr): correct Indonesian character parsing
+fix(api): improve error handling
