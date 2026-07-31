@@ -1,5 +1,5 @@
-feat(kyc): add Indonesian KTP OCR parser
-feat(face): integrate face verification module
-feat(liveness): implement liveness detection
-feat(api): create KYC verification endpoint
-feat(auth): add secure authentication
+feat(upload): support encrypted KTP uploads
+feat(storage): encrypt biometric data
+feat(validation): validate KTP image quality
+feat(face): improve face matching accuracy
+feat(security): add audit logging
