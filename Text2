@@ -1,5 +1,5 @@
-feat(face): add selfie quality checks
-feat(api): return detailed verification status
-feat(log): add structured logging
-feat(admin): verification analytics
-feat(export): export verification reports
+fix(storage): prevent duplicate uploads
+fix(face): handle low-light selfies
+perf(api): improve response times
+refactor(db): normalize verification tables
+feat(config): environment configuration
