@@ -1,5 +1,5 @@
-security: strengthen biometric encryption
-feat(face): anti-spoofing detection
-feat(api): verification result webhook
-chore: clean project structure
-release: KYC verification module v1.0
+feat(web): initialize KTP-Free website on Vercel
+feat(ui): add Generate Test KTP page
+feat(ui): add Generate Test Face page
+feat(api): implement dummy identity generator
+feat(db): create test profile storage
