@@ -1,5 +1,6 @@
-feat(queue): async verification processing
-feat(notification): verification result alerts
-fix(face): improve recognition stability
-fix(ocr): correct Indonesian character parsing
-fix(api): improve error handling
+docs(api): add KYC API documentation
+docs: update deployment guide
+test(face): add face verification tests
+test(api): increase API coverage
+ci: automate KYC test pipeline
+build: update dependencies
