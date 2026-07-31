@@ -1,6 +1,5 @@
-docs(api): add KYC API documentation
-docs: update deployment guide
-test(face): add face verification tests
-test(api): increase API coverage
-ci: automate KYC test pipeline
-build: update dependencies
+security: rotate encryption keys
+security: enforce TLS communication
+security: add rate limiting
+security: improve access control
+feat(ocr): detect blurry KTP images
