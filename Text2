@@ -1,6 +1,5 @@
-feat: create secure card creation service
-feat: implement encrypted card storage
-feat: add card activation workflow
-feat: implement card suspension feature
-feat: add card expiration management
-feat: implement CVV generation module
+feat(kyc): add Indonesian KTP OCR parser
+feat(face): integrate face verification module
+feat(liveness): implement liveness detection
+feat(api): create KYC verification endpoint
+feat(auth): add secure authentication
