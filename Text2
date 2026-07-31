@@ -1,5 +1,5 @@
-feat(web): initialize KTP-Free website on Vercel
-feat(ui): add Generate Test KTP page
-feat(ui): add Generate Test Face page
-feat(api): implement dummy identity generator
-feat(db): create test profile storage
+feat: initialize Arxen Virtual Card platform
+feat: create SQL database schema
+feat: implement Cardholder Name module
+feat: add Indonesia region support
+feat: add United States region support
