@@ -1,4 +1,5 @@
-feat(api): verification session management
-feat(admin): reviewer permission roles
-fix(auth): resolve session timeout issue
-perf(storage): optimize image compression
+security: strengthen biometric encryption
+feat(face): anti-spoofing detection
+feat(api): verification result webhook
+chore: clean project structure
+release: KYC verification module v1.0
