@@ -1,6 +1,1 @@
-fix: resolve failed to fetch regions error
-fix: correct SQL Server IP configuration
-fix: enable public network access for SQL Server
-fix: improve database connection stability
-fix: update environment variables for SQL connection
-fix: handle region fetch
+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
