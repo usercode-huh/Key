@@ -1,5 +1,4 @@
-feat(webhook): verification callbacks
-feat(metrics): monitoring integration
-feat(kyc): support retry workflow
-docs(security): data protection guidelines
-test(ocr): improve OCR regression tests
+feat(api): verification session management
+feat(admin): reviewer permission roles
+fix(auth): resolve session timeout issue
+perf(storage): optimize image compression
