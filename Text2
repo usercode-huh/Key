@@ -1,5 +1,5 @@
-real Initial VCC project structure
-real Add Visa virtual card generator
-real Implement cardholder name generator
-real Add country and region selector
-real Support Indonesia card profiles
+feat: initialize Arxen real virtual Visa card platform
+feat: add real virtual card generation API
+feat: implement Visa network processing integration
+feat: add automatic virtual card deactivation
+feat: generate real cardholder names
