@@ -1,5 +1,65 @@
-feat: initialize Arxen real virtual Visa card platform
-feat: add real virtual card generation API
-feat: implement Visa network processing integration
-feat: add automatic virtual card deactivation
-feat: generate real cardholder names
+01. feat(api): initialize Neraka live API v1
+02. feat(card): add real card issuer integration
+03. feat(card): implement Visa network processing
+04. feat(card): implement Mastercard network processing
+05. feat(card): add production card token management
+06. feat(auth): add real authorization processing
+07. feat(balance): implement live balance tracking
+08. feat(transaction): add production transaction processing
+09. feat(payment): enable real merchant payment flow
+10. feat(api): add production card API endpoints
+
+11. feat(webhook): implement live transaction webhooks
+12. feat(card): add card activation lifecycle
+13. feat(card): add card suspension lifecycle
+14. feat(card): add card termination lifecycle
+15. feat(cardholder): implement cardholder verification
+16. feat(transaction): add transaction history storage
+17. feat(merchant): add merchant authorization handling
+18. feat(issuer): connect production issuer service
+19. feat(network): add production network routing
+20. feat(token): secure production card token storage
+
+21. feat(balance): add real-time balance updates
+22. feat(transaction): persist authorized transactions
+23. feat(transaction): persist settled transactions
+24. feat(transaction): add declined transaction records
+25. feat(transaction): add reversed transaction records
+26. feat(payment): process authorized merchant payments
+27. feat(payment): add payment settlement workflow
+28. feat(payment): add payment reversal workflow
+29. feat(webhook): add signed webhook verification
+30. feat(webhook): add transaction event delivery
+
+31. feat(api): add production authentication middleware
+32. feat(api): add secure API request validation
+33. feat(api): add production error handling
+34. feat(api): add request idempotency support
+35. feat(api): add transaction idempotency protection
+36. feat(card): add card status synchronization
+37. feat(card): add expiration lifecycle handling
+38. feat(card): add production card metadata
+39. feat(cardholder): add verification status tracking
+40. feat(transaction): add merchant transaction metadata
+
+41. feat(mysql): add production transaction schema
+42. feat(mysql): add production card schema
+43. feat(mysql): add production balance schema
+44. feat(mysql): add production cardholder schema
+45. feat(mysql): add production webhook schema
+46. feat(mysql): add transaction audit records
+47. feat(mysql): add card lifecycle indexes
+48. feat(mysql): optimize transaction history queries
+49. feat(mysql): enforce transaction consistency
+50. feat(mysql): add production database migrations
+
+51. feat(vercel): configure production API deployment
+52. feat(cloudflare): configure production API routing
+53. feat(cloudflare): add production DNS configuration
+54. feat(cloudflare): enable API security policies
+55. feat(security): protect sensitive card credentials
+56. feat(security): add production secret management
+57. feat(security): add webhook signature validation
+58. feat(audit): add production transaction audit trail
+59. feat(monitoring): add live transaction monitoring
+60. feat(production): enable live payment processing
